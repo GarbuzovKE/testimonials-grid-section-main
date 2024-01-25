@@ -48,6 +48,10 @@ main {
   color: var(--WHITE);
 }
 
+.dark-blue {
+  color: var(--VERY-DARK-GRAYISH-BLUE);
+}
+
 .transparent50 {
   opacity: 50%;
 }
