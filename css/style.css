@@ -118,7 +118,7 @@ main {
     max-width: 1000px;
     max-height: 540px;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 1fr 1fr;
+/*     grid-template-rows: 1fr 1fr; */
     grid-template-areas:
       "Cl Cl Wa Wh"
       "Ha Ab Ab Wh";
